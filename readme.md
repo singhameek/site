@@ -2,13 +2,13 @@
 
 My personal site, built with HTML and CSS. I'm Ameek, a high school student in Canada who codes as a hobby — mostly Python, HTML, and CSS. My real goal is aerospace engineering!
 
-🔗 Live site: https://singhameek.github.io/site/index.html
+Live site: https://singhameek.github.io/site/index.html
 
 ## Pages
 
-- **Home** (`index.html`) — Intro and a bit about me
-- **Hobbies** (`hobbies.html`) — Sim racing and coding
-- **Idols** (`idols.html`) — People I look up to
+- **Home** Intro and a bit about me
+- **Hobbies** Sim racing and coding
+- **Idols** People I look up to
 
 ## Built With
 
